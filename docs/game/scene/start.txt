@@ -1,0 +1,5 @@
+; 明日放送 · 初始状态。信任只由三个相处选择增加。
+setVar:trust=0;
+setVar:clueTime=0;
+setVar:clueBell=0;
+changeScene:01-rain.txt;

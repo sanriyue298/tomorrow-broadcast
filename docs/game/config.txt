@@ -1,0 +1,9 @@
+Game_name:明日放送;
+Game_key:tomorrow_broadcast_v1;
+Default_Language:zh_CN;
+Title_img:radio.webp;
+Game_Logo:radio.webp;
+Enable_Appreciation:false;
+Enable_Continue:true;
+Enable_flowchart:false;
+Show_panic:false;
